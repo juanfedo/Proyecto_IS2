@@ -8,3 +8,14 @@ C:\Users\usuario\source\repos\Proyecto_IS2\Proyecto_IS2\obj\Debug\Proyecto_IS2.e
 C:\Users\usuario\source\repos\Proyecto_IS2\Proyecto_IS2\obj\Debug\Proyecto_IS2.pdb
 C:\Users\usuario\source\repos\Proyecto_IS2\Proyecto_IS2\obj\Debug\Proyecto_IS2.Form1.resources
 C:\Users\usuario\source\repos\Proyecto_IS2\Proyecto_IS2\obj\Debug\Proyecto_IS2.Main.resources
+D:\GIT\Proyecto_IS2\Proyecto_IS2\bin\Debug\Proyecto_IS2.exe.config
+D:\GIT\Proyecto_IS2\Proyecto_IS2\bin\Debug\Proyecto_IS2.exe
+D:\GIT\Proyecto_IS2\Proyecto_IS2\bin\Debug\Proyecto_IS2.pdb
+D:\GIT\Proyecto_IS2\Proyecto_IS2\obj\Debug\Proyecto_IS2.csprojAssemblyReference.cache
+D:\GIT\Proyecto_IS2\Proyecto_IS2\obj\Debug\Proyecto_IS2.Form1.resources
+D:\GIT\Proyecto_IS2\Proyecto_IS2\obj\Debug\Proyecto_IS2.Main.resources
+D:\GIT\Proyecto_IS2\Proyecto_IS2\obj\Debug\Proyecto_IS2.Properties.Resources.resources
+D:\GIT\Proyecto_IS2\Proyecto_IS2\obj\Debug\Proyecto_IS2.csproj.GenerateResource.cache
+D:\GIT\Proyecto_IS2\Proyecto_IS2\obj\Debug\Proyecto_IS2.csproj.CoreCompileInputs.cache
+D:\GIT\Proyecto_IS2\Proyecto_IS2\obj\Debug\Proyecto_IS2.exe
+D:\GIT\Proyecto_IS2\Proyecto_IS2\obj\Debug\Proyecto_IS2.pdb
